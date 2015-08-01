@@ -1,11 +1,9 @@
-# google/golang
+Gogs Dockerfile
+===============
 
-[![Docker Hub: nimmis/golang][dockerhub-shield]][dockerhub-link] is a [docker](https://docker.io) base image that bundles the latest version of [golang](http://golang.org) installed from [golang.org](http://golang.org/doc/install/).
+[![Docker Hub: nimmis/golang][dockerhub-shield]][dockerhub-link]
 
-based on [![Docker Hub: nimmis/ubuntu][dockerhub-shield]][dockerhub-link] with working syslog and init process
+Builds a Docker container with golang
 
-## Notes
-
-`GOROOT` is set to `/goroot`
-`GOPATH` is set to `/gopath`
+Based on nimmis/ubuntu with working init process and syslog
 
