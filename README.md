@@ -1,7 +1,7 @@
 Gogs Dockerfile
 ===============
 
-[![Docker Hub: nimmis/golang][dockerhub-shield]][dockerhub-link]
+![Docker Hub; bunnus&golang](https://img.shields.io/badge/dockerhub-nimmis%2Fubuntu-green.svg)
 
 Builds a Docker container with golang
 
