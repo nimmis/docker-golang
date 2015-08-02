@@ -23,9 +23,10 @@ This image only contains the 2 latest LTS versions of Ubuntu 12.04 and 14.04, th
 nimmis/ubuntu:<tag> where tag is
 
 - latest -  this gives the latest version (atm 1.4.2)
-- 1.4    -  this gives the latest 1.4 version (atm 1.4.2)
 - 1.4.1  -  this gives the 1.4.1 version
 - 1.4.2  -  this giver the 1.4.2 version
-- 1.3    -  thins gives then lastest 1.3 version (1.3.3)
-- 1.2    -  this gives the latest 1.2 versio (1.2.2)
+- 1.4    -  this gives the 1.4 version
+- 1.3.3  -  this gives the 1.3.3 version
+- 1.3    -  this giver the 1.3 version
+- 1.2.2  -  this gives the 1.2.2 version
 
