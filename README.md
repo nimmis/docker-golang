@@ -19,14 +19,14 @@ Accessing the container with a bash shell can be done with
 
 ### TAGs
 
-This image only contains the 2 latest LTS versions of Ubuntu 12.04 and 14.04, the versions are
-nimmis/ubuntu:<tag> where tag is
+This image contains version 1.2.2 to the latest version (atm 1.5), the versions are nimmis/golang:<tag> where tag is
 
-- latest -  this gives the latest version (atm 1.4.2)
-- 1.4.1  -  this gives the 1.4.1 version
-- 1.4.2  -  this giver the 1.4.2 version
-- 1.4    -  this gives the 1.4 version
-- 1.3.3  -  this gives the 1.3.3 version
-- 1.3    -  this giver the 1.3 version
-- 1.2.2  -  this gives the 1.2.2 version
+- latest -  this gives the latest version (atm 1.5)
+- 1.5    -  this is the 1.5 version
+- 1.4.1  -  this is the the 1.4.1 version
+- 1.4.2  -  this is the the 1.4.2 version
+- 1.4    -  this is the the 1.4 version
+- 1.3.3  -  this is the the 1.3.3 version
+- 1.3    -  this is the the 1.3 version
+- 1.2.2  -  this is the the 1.2.2 version
 
