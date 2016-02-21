@@ -19,9 +19,10 @@ Accessing the container with a bash shell can be done with
 
 ### TAGs
 
-This image contains version 1.2.2 to the latest version (atm 1.5), the versions are nimmis/golang:<tag> where tag is
+This image contains version 1.2.2 to the latest version (atm 1.6), the versions are nimmis/golang:<tag> where tag is
 
-- latest -  this gives the latest version (atm 1.5)
+- latest -  this gives the latest version (atm 1.6)
+- 1,5,3  -  this is the 1.5.3 version
 - 1.5    -  this is the 1.5 version
 - 1.4.1  -  this is the the 1.4.1 version
 - 1.4.2  -  this is the the 1.4.2 version
