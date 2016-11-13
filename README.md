@@ -1,7 +1,7 @@
 
 lang Dockerfile
 ===============
-[![Docker Hub; nimmis/golang](https://img.shields.io/badge/dockerhub-nimmis%2Fgolang-green.svg)](https://registry.hub.docker.com/u/nimmis/golang)
+[![](https://images.microbadger.com/badges/image/nimmis/golang.svg)](https://microbadger.com/images/nimmis/golang "Get your own image badge on microbadger.com")
 
 Docker container with GO programming language with different versions ontop of Ubuntu 14.04
 
@@ -19,18 +19,23 @@ Accessing the container with a bash shell can be done with
 
 ### TAGs
 
-This image contains version 1.2.2 to the latest version (atm 1.6.3), the versions are nimmis/golang:<tag> where tag is
+This image contains version 1.2.2 to the latest version (atm 1.7.3), the versions are nimmis/golang:<tag> where tag is
 
-- latest -  this gives the latest version (atm 1.6.2)
-- 1.6.3  -  this is the 1.6.3 version
-- 1.6.2  -  this is the 1.6.2 version
-- 1.6    -  this is the 1.6 version
-- 1,5,3  -  this is the 1.5.3 version
-- 1.5    -  this is the 1.5 version
-- 1.4.1  -  this is the the 1.4.1 version
-- 1.4.2  -  this is the the 1.4.2 version
-- 1.4    -  this is the the 1.4 version
-- 1.3.3  -  this is the the 1.3.3 version
-- 1.3    -  this is the the 1.3 version
-- 1.2.2  -  this is the the 1.2.2 version
+| Tag    | Alpine version | size |
+| ------ | -------------- | ---- |
+| latest |  this gives the latest version (atm 1.7.3) | [![](https://images.microbadger.com/badges/image/nimmis/golang.svg)](https://microbadger.com/images/nimmis/golang "Get your own image badge on microbadger.com") |
+| 1.7.3  |  this is the 1.7.3 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.7.3.svg)](https://microbadger.com/images/nimmis/golang:1.7.3 "Get your own image badge on microbadger.com") |
+| 1.7.1  |  this is the 1.7.1 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.7.1.svg)](https://microbadger.com/images/nimmis/golang:1.7.1 "Get your own image badge on microbadger.com") |
+| 1.7    |  this is the 1.7 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.7.svg)](https://microbadger.com/images/nimmis/golang:1.7 "Get your own image badge on microbadger.com")|
+| 1.6.3  |  this is the 1.6.3 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.6.3.svg)](https://microbadger.com/images/nimmis/golang:1.6.3 "Get your own image badge on microbadger.com")|
+| 1.6.2  |  this is the 1.6.2 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.6.2.svg)](https://microbadger.com/images/nimmis/golang:1.6.2 "Get your own image badge on microbadger.com")|
+| 1.6    |  this is the 1.6 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.6.svg)](https://microbadger.com/images/nimmis/golang:1.6 "Get your own image badge on microbadger.com") |
+| 1.5.3  |  this is the 1.5.3 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.5.3.svg)](https://microbadger.com/images/nimmis/golang:1.5.3 "Get your own image badge on microbadger.com") |
+| 1.5    |  this is the 1.5 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.5.svg)](https://microbadger.com/images/nimmis/golang:1.5 "Get your own image badge on microbadger.com") |
+| 1.4.2  |  this is the the 1.4.2 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.4.2.svg)](https://microbadger.com/images/nimmis/golang:1.4.2 "Get your own image badge on microbadger.com") |
+| 1.4.1  |  this is the the 1.4.1 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.4.1.svg)](https://microbadger.com/images/nimmis/golang:1.4.1 "Get your own image badge on microbadger.com") |
+| 1.4    |  this is the the 1.4 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.4.svg)](https://microbadger.com/images/nimmis/golang:1.4 "Get your own image badge on microbadger.com") |
+| 1.3.3  |  this is the the 1.3.3 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.3.3.svg)](https://microbadger.com/images/nimmis/golang:1.3.3 "Get your own image badge on microbadger.com") |
+| 1.3    |  this is the the 1.3 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.3.svg)](https://microbadger.com/images/nimmis/golang:1.3 "Get your own image badge on microbadger.com") |
+| 1.2.2  |  this is the the 1.2.2 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.2.2.svg)](https://microbadger.com/images/nimmis/golang:1.2.2 "Get your own image badge on microbadger.com") |
 
