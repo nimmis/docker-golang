@@ -23,7 +23,8 @@ This image contains version 1.2.2 to the latest version (atm 1.7.3), the version
 
 | Tag    | Alpine version | size |
 | ------ | -------------- | ---- |
-| latest |  this gives the latest version (atm 1.8) | [![](https://images.microbadger.com/badges/image/nimmis/golang.svg)](https://microbadger.com/images/nimmis/golang "Get your own image badge on microbadger.com") |
+| latest |  this gives the latest version (atm 1.8.1) | [![](https://images.microbadger.com/badges/image/nimmis/golang.svg)](https://microbadger.com/images/nimmis/golang "Get your own image badge on microbadger.com") |
+| 1.8.1  |  this is the 1.8.1 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.8.1.svg)](https://microbadger.com/images/nimmis/golang:1.8.1 "Get your own image badge on microbadger.com") |
 | 1.8  |  this is the 1.8 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.8.svg)](https://microbadger.com/images/nimmis/golang:1.8 "Get your own image badge on microbadger.com") |
 | 1.7.5  |  this is the 1.7.5 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.7.5.svg)](https://microbadger.com/images/nimmis/golang:1.7.5 "Get your own image badge on microbadger.com") |
 | 1.7.3  |  this is the 1.7.3 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.7.3.svg)](https://microbadger.com/images/nimmis/golang:1.7.3 "Get your own image badge on microbadger.com") |
