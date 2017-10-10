@@ -19,11 +19,14 @@ Accessing the container with a bash shell can be done with
 
 ### TAGs
 
-This image contains version 1.2.2 to the latest version (atm 1.7.3), the versions are nimmis/golang:<tag> where tag is
+This image contains version 1.2.2 to the latest version (atm 1.9.1), the versions are nimmis/golang:<tag> where tag is
 
 | Tag    | Alpine version | size |
 | ------ | -------------- | ---- |
-| latest |  this gives the latest version (atm 1.8.1) | [![](https://images.microbadger.com/badges/image/nimmis/golang.svg)](https://microbadger.com/images/nimmis/golang "Get your own image badge on microbadger.com") |
+| latest |  this gives the latest version (atm 1.9.1) | [![](https://images.microbadger.com/badges/image/nimmis/golang.svg)](https://microbadger.com/images/nimmis/golang "Get your own image badge on microbadger.com") |
+| 1.9.1  |  this is the 1.9.1 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.9.1.svg)](https://microbadger.com/images/nimmis/golang:1.9.1 "Get your own image badge on microbadger.com") |
+| 1.9  |  this is the 1.9 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.9.svg)](https://microbadger.com/images/nimmis/golang:1.9 "Get your own image badge on microbadger.com") |
+| 1.8.4  |  this is the 1.8.4 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.8.4.svg)](https://microbadger.com/images/nimmis/golang:1.8.4 "Get your own image badge on microbadger.com") |
 | 1.8.1  |  this is the 1.8.1 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.8.1.svg)](https://microbadger.com/images/nimmis/golang:1.8.1 "Get your own image badge on microbadger.com") |
 | 1.8  |  this is the 1.8 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.8.svg)](https://microbadger.com/images/nimmis/golang:1.8 "Get your own image badge on microbadger.com") |
 | 1.7.5  |  this is the 1.7.5 version | [![](https://images.microbadger.com/badges/image/nimmis/golang:1.7.5.svg)](https://microbadger.com/images/nimmis/golang:1.7.5 "Get your own image badge on microbadger.com") |
